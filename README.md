@@ -1,4 +1,3 @@
-# MDRAbadies
 ## Hi there, I'm Mark Daryll Abadies 👋
 
 <div align="center">
@@ -9,17 +8,36 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-<a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mark-daryll-abadies-49650080/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.youtube.com/@engrMarkA"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+<a href="mailto:abadiesmarkdaryll@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am a Property Management and Facilities Management professional with extensive experience in building operations, maintenance, asset management, vendor coordination, compliance, and team supervision.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Throughout my career, I have managed property and facility operations with a strong focus on reliability, efficiency, cost optimization, safety, and customer experience. My experience has given me a practical understanding of how buildings and properties operate—from preventive maintenance and equipment performance to budgeting, contractor management, tenant relations, and regulatory compliance.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I am also developing my expertise in Data Analytics, with a particular interest in using data to improve property and facilities performance. I enjoy transforming operational data into meaningful insights that can support better decisions, identify trends, monitor KPIs, control costs, and improve overall efficiency.
+
+My areas of interest include:
+
+• Property & Facilities Management
+• Building Operations & Maintenance
+• Preventive Maintenance & Asset Management
+• Vendor & Contractor Management
+• Cost & Operational Optimization
+• KPI & Performance Monitoring
+• Excel & Data Analysis
+• Data Visualization & Reporting
+• Sustainability & Energy Efficiency
+• Process Improvement
+
+I believe the future of property and facilities management is increasingly data-driven. By combining hands-on operational experience with data analytics, I aim to help organizations make smarter decisions, improve asset performance, reduce operational costs, and create more efficient and sustainable properties.
+
+Property Management + Data Analytics = Smarter Operations.
+
+When I'm not working with data, I enjoy spending time with my family and the outdoors, also I am practicing to create content. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
